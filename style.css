@@ -17,7 +17,7 @@ body{
 	cursor: pointer;
 	user-select: none;
 
-	position: relative;
+	/*position: relative;*/
 }
 
 .acctitle:hover,.active{
