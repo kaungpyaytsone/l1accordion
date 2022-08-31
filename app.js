@@ -20,8 +20,7 @@ for(var x = 0; x < getacctitles.length; x++){
 		}else{
 			// console.log(getcontent.scrollHeight);
 			getcontent.style.height = getcontent.scrollHeight + "px";
-		}
-		
+		}		
 	});
 
 	if(getacctitles[x].classList.contains("active")){
